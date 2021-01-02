@@ -4,6 +4,8 @@
 
 View the challange [here](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
 
+View the static site [here](https://frontend-mentor-social-proof.vercel.app/)
+
 #### Final result
 
 ##### Desktop
